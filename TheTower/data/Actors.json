@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":1,"equips":[5,1,2,3,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hero","nickname":"","note":"<battle command: attack />\n<battle command: guard />\n<battle command: skill_type 2 />\n<battle command: item />","profile":""}
+]
